@@ -3,9 +3,7 @@
 This mobile application, developed using Expo App and React Native, demonstrates the practical implementation of React Native components and integration with the JSearchAPI. The app showcases a seamless fusion of powerful mobile development tools and API integration to browse jobs anywhere.
 
 
-
-https://github.com/Hean-Chhinling/FindingJobs_MobileApplication/assets/92643868/9766d2f8-3848-4463-ab68-ff952081f118
-
+https://github.com/Hean-Chhinling/Jobs_Hunting_MobileApplication/assets/92643868/419fb9c4-4804-4e35-b3f7-e5e43c052fa8
 
 
 ## Features
